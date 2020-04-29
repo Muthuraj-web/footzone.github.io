@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Muthuraj-web/footzone.github.io.git/static/css/main.d74c7114.chunk.css",
+    "main.js": "/Muthuraj-web/footzone.github.io.git/static/js/main.f75ee3a0.chunk.js",
+    "main.js.map": "/Muthuraj-web/footzone.github.io.git/static/js/main.f75ee3a0.chunk.js.map",
+    "runtime-main.js": "/Muthuraj-web/footzone.github.io.git/static/js/runtime-main.f2a336ff.js",
+    "runtime-main.js.map": "/Muthuraj-web/footzone.github.io.git/static/js/runtime-main.f2a336ff.js.map",
+    "static/css/2.74189dbb.chunk.css": "/Muthuraj-web/footzone.github.io.git/static/css/2.74189dbb.chunk.css",
+    "static/js/2.51f84887.chunk.js": "/Muthuraj-web/footzone.github.io.git/static/js/2.51f84887.chunk.js",
+    "static/js/2.51f84887.chunk.js.map": "/Muthuraj-web/footzone.github.io.git/static/js/2.51f84887.chunk.js.map",
+    "index.html": "/Muthuraj-web/footzone.github.io.git/index.html",
+    "precache-manifest.237ed33beef88ab3e0e68e57bc753893.js": "/Muthuraj-web/footzone.github.io.git/precache-manifest.237ed33beef88ab3e0e68e57bc753893.js",
+    "service-worker.js": "/Muthuraj-web/footzone.github.io.git/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/Muthuraj-web/footzone.github.io.git/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.d74c7114.chunk.css.map": "/Muthuraj-web/footzone.github.io.git/static/css/main.d74c7114.chunk.css.map",
+    "static/js/2.51f84887.chunk.js.LICENSE.txt": "/Muthuraj-web/footzone.github.io.git/static/js/2.51f84887.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2a336ff.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.51f84887.chunk.js",
+    "static/css/main.d74c7114.chunk.css",
+    "static/js/main.f75ee3a0.chunk.js"
+  ]
+}

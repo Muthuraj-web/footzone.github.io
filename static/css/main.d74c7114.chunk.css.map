@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,gBAAmB,CACnB,sBACF,CAEA,WACE,cACF,CACA,IACE,aACF","file":"main.d74c7114.chunk.css","sourcesContent":["body {\n  margin: 0;\n  padding: 20px 0 0 0;\n  font-family: sans-serif;\n}\n\n.clickable {\n  cursor: pointer\n}\n.bg{\n  color:lightgray\n}"]}
