@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Muthuraj-web/footzone_reactJS.git",
+  "homepage": "https://github.com/Muthuraj-web/footzone.github.io.git",
   "name": "training",
   "version": "0.1.0",
   "private": true,
@@ -18,6 +18,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
